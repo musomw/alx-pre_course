@@ -1,0 +1,4 @@
+# .git-global-ignore 
+ 
+# ignore emacs backups 
+*~ 
